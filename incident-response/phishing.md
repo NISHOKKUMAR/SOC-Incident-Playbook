@@ -231,3 +231,12 @@ The following IOCs were extracted directly from the analyzed email and should be
 
 **Status:** Closed  
 **Confidence Level:** High  
+
+## 📎 Resource
+
+The original phishing email used for this investigation is available below:
+
+- **View Phishing Email (EML):**  
+ [PHISH-194.eml](../resource/PHISH-194.eml?raw=true)
+
+> This file contains full email headers and body content for your practice.
