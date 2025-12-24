@@ -1,7 +1,7 @@
 # 📄 Phishing Incident Handling Report  
 **Incident Type:** Malicious Email (Phishing with Malware Payload)  
 **Prepared For:** SOC Analysts (Tier 1 / Tier 2)  
-**Prepared By:** SOC Team  
+**Prepared By:** NISHOK KUMAR S  
 **Date of Analysis:** 09-Dec-2022  
 
 ---
@@ -237,6 +237,6 @@ The following IOCs were extracted directly from the analyzed email and should be
 The original phishing email used for this investigation is available below:
 
 - **View Phishing Email (EML):**  
- [PHISH-194.eml](../resource/PHISH-194.eml?raw=true)
+ [PHISH-194.eml](../resource/phishing.eml?raw=true)
 
 > This file contains full email headers and body content for your practice.
